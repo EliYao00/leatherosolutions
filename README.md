@@ -15,3 +15,5 @@ About 案例：搜索 First_Call_About.html 中的 const repairCases，填写各
 每分类支持一组照片，目前保留空白占位。
 
 代码为原生 HTML/CSS/JavaScript，无需安装依赖。图片和 Logo 沿用设计素材，正式上线建议替换高清原件。
+
+点击进入：leatherosolutions.com
