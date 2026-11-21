@@ -16,4 +16,4 @@ About 案例：搜索 First_Call_About.html 中的 const repairCases，填写各
 
 代码为原生 HTML/CSS/JavaScript，无需安装依赖。图片和 Logo 沿用设计素材，正式上线建议替换高清原件。
 
-点击进入：[First Call Reconditioning](leatherosolutions.com)
+点击进入：[First Call Reconditioning](https://leatherosolutions.com)
